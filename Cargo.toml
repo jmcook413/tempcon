@@ -1,0 +1,6 @@
+[package]
+name = "tempcon"
+version = "0.1.0"
+authors = ["jmcook413 <jeremycook290@gmail.com>"]
+
+[dependencies]
